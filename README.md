@@ -19,14 +19,19 @@ Author : Rujeena Al-zyoud
 
 ## Here the links:
 
-[deployment for Bearer-auth ](https://basic-auth-rujeena.herokuapp.com/)
+[deployment for Bearer-auth ](https://auth-bearer-server-rujeena.herokuapp.com/)
 
 ____________________________________________
 
-[PR](https://github.com/rujeenaal-zyoud/basic-auth/pulls?q=is%3Apr+is%3Aclosed)
+[PR](https://github.com/rujeenaal-zyoud/bearer-auth/pulls?q=is%3Apr+is%3Aclosed)
 ______________________________________________
-[GitHub Actions]()
-==========================================
+
+[GitHub Actions](https://github.com/rujeenaal-zyoud/bearer-auth/actions/workflows/node.js.yml)
+
+
+
+
+========================================
 my uml link:
 
 [UML](https://lucid.app/lucidchart/invitations/accept/inv_74437cc0-d0c3-4317-822b-6907d91a0a48)
